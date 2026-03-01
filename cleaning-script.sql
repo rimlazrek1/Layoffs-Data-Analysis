@@ -1,11 +1,3 @@
--- in this data cleaning project we will go through four steps :
-
--- 1. removing duplicates
--- 2. standardizing the data
--- 3. fixing null values or blank values
--- 4. removing unecessary columns or rows if possible
-
-
 SELECT * FROM layoffs;
 
 -- we duplicate the layoffs table
